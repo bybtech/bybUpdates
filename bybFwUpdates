@@ -1,0 +1,8 @@
+{
+  "fwUpdates": {
+      "latest-version": "2.1",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1_Mac.dmg",
+      "changelog": "",
+      "mandatory": true
+  }
+}
