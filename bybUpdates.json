@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.1",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-installer-v2.1_Win.exe",
-      "changelog": "- Bottom scrollbar added \n -Comparison updated \n -Bug fixes \n ",
+      "latest-version": "2.1.1",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.1_Win.exe",
+      "changelog": "- Bottom scrollbar added \n -Comparison updated \n -Accelerometer data expanded \n -Auto updater added \n -Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.1",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1_Mac.dmg",
-      "changelog": "- Bottom scrollbar added \n -Comparison updated \n -Bug fixes \n ",
+      "latest-version": "2.1.1",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.1_Mac.dmg",
+      "changelog": "- Bottom scrollbar added \n -Comparison updated \n -Accelerometer data expanded \n -Auto updater added \n -Bug fixes \n ",
       "mandatory": true
     }
   }
