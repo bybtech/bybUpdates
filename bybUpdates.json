@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.1.4",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.4_Win.exe",
-      "changelog": "- Map characteristics updated \n - Brakes distribution added \n - IMU charts added \n - Position vs Velocity charts added \n - Layout for small screens improved \n - Bug fixes \n ",
+      "latest-version": "2.1.5",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.5_Win.exe",
+      "changelog": "- Minor improvements \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.1.4",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.4_Mac.dmg",
-      "changelog": "- Map characteristics updated \n - Brakes distribution added \n - IMU charts added \n - Position vs Velocity charts added \n - Layout for small screens improved \n - Bug fixes \n ",
+      "latest-version": "2.1.5",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.5_Mac.dmg",
+      "changelog": "- Minor improvements \n - Bug fixes \n ",
       "mandatory": true
     }
   }
