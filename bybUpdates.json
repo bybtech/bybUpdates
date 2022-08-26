@@ -4,14 +4,14 @@
       "open-url": "",
       "latest-version": "2.1.7",
       "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.7_Win.exe",
-      "Changelog": "- Save runs as new .byb file without stops \n - Accelerometer and gyro distribution added \n - Lap manager improved \n - Positive and negative average for accelerometer and gyro \n - Zoom-in charts improved \n - Bug fixes \n ",
+      "changelog": "- Save runs as new .byb file without stops \n - Accelerometer and gyro distribution added \n - Lap manager improved \n - Positive and negative average for accelerometer and gyro \n - Zoom-in charts improved \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
       "latest-version": "2.1.7",
       "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.7_Mac.dmg",
-      "Changelog": "- Save runs as new .byb file without stops \n - Accelerometer and gyro distribution added \n - Lap manager improved \n - Positive and negative average for accelerometer and gyro \n - Zoom-in charts improved \n - Bug fixes \n ",
+      "changelog": "- Save runs as new .byb file without stops \n - Accelerometer and gyro distribution added \n - Lap manager improved \n - Positive and negative average for accelerometer and gyro \n - Zoom-in charts improved \n - Bug fixes \n ",
       "mandatory": true
     }
   }
