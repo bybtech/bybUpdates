@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.1.7",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.7_Win.exe",
-      "changelog": "- Save runs as new .byb file without stops \n - Accelerometer and gyro distribution added \n - Lap manager improved \n - Positive and negative average for accelerometer and gyro \n - Zoom-in charts improved \n - Bug fixes \n ",
+      "latest-version": "2.1.8",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.8_Win.exe",
+      "changelog": "- Incremental charts added \n - Position vs velocity interactor added \n - IMU charts interactor added \n - More accurate auto-tuning algorithm for the rear wheel \n - Run comparison improved \n - Linkage export for software simulation \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.1.7",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.7_Mac.dmg",
-      "changelog": "- Save runs as new .byb file without stops \n - Accelerometer and gyro distribution added \n - Lap manager improved \n - Positive and negative average for accelerometer and gyro \n - Zoom-in charts improved \n - Bug fixes \n ",
+      "latest-version": "2.1.8",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.1.8_Mac.dmg",
+      "changelog": "- Incremental charts added \n - Position vs velocity interactor added \n - IMU charts interactor added \n - More accurate auto-tuning algorithm for the rear wheel \n - Run comparison improved \n - Linkage export for software simulation \n - Bug fixes \n ",
       "mandatory": true
     }
   }
