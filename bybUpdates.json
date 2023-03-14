@@ -9,7 +9,7 @@
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.1",
+      "latest-version": "2.2.0",
       "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.1_Mac.dmg",
       "changelog": "- New UI design \n - Better data handling \n - Select different type of charts \n - Better comparison \n - Bug fixes \n ",
       "mandatory": true
