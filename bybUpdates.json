@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.1",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.1_Win.exe",
-      "changelog": "- New UI design \n - Better data handling \n - Select different type of charts \n - Better comparison \n - Bug fixes \n ",
+      "latest-version": "2.2.2",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.2_Win.exe",
+      "changelog": "- Extended comparison \n - Better data handling \n - New chart colors \n - Increased accuracy of lap manager points \n - Better GPS map \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.1",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.1_Mac.dmg",
-      "changelog": "- New UI design \n - Better data handling \n - Select different type of charts \n - Better comparison \n - Bug fixes \n ",
+      "latest-version": "2.2.2",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.2_Mac.dmg",
+      "changelog": "- Extended comparison \n - Better data handling \n - New chart colors \n - Increased accuracy of lap manager points \n - Better GPS map \n - Bug fixes \n ",
       "mandatory": true
     }
   }
