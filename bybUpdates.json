@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.3",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.3_Win.exe",
-      "changelog": "- Increased the speed of the UI \n - Bug fixes \n ",
+      "latest-version": "2.2.4",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.4_Win.exe",
+      "changelog": "- 95th percentile value added in summary \n - Stroke length distribution added \n - Downloading runs in background enabled \n - Comparison drag of 2nd run over 1st \n - Comparison improved \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.3",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.3_Mac.dmg",
-      "changelog": "- Increased the speed of the UI \n - Bug fixes \n ",
+      "latest-version": "2.2.4",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.4_Mac.dmg",
+      "changelog": "- 95th percentile value added in summary \n - Stroke length distribution added \n - Downloading runs in background enabled \n - Comparison drag of 2nd run over 1st \n - Comparison improved \n - Bug fixes \n ",
       "mandatory": true
     }
   }
