@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.6",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.6_Win.exe",
-      "changelog":  "- General improvements \n - Bug fixes \n ",
+      "latest-version": "2.2.7",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.7_Win.exe",
+      "changelog":  "- High/low speed for auto-tuning \n - Cut-off speed for velocity distribution \n - Scrollable (up-down) position vs velocity chart \n - General improvements \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.6",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.6_Mac.dmg",
-	  "changelog":  "- General improvements \n - Bug fixes \n ",
+      "latest-version": "2.2.7",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.7_Mac.dmg",
+	  "changelog":  "- High/low speed for auto-tuning \n - Cut-off speed for velocity distribution \n - Scrollable (up-down) position vs velocity chart \n - General improvements \n - Bug fixes \n ",
       "mandatory": true
     }
   }
