@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.7",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.7_Win.exe",
-      "changelog":  "- High/low speed for auto-tuning \n - Cut-off speed for velocity distribution \n - Scrollable (up-down) position vs velocity chart \n - General improvements \n - Bug fixes \n ",
+      "latest-version": "2.2.8",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.8_Win.exe",
+      "changelog":  "- Dynamic balance charts added \n - Report template enhanced \n - Best fit lines improved \n - General improvements \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.7",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.7_Mac.dmg",
-	  "changelog":  "- High/low speed for auto-tuning \n - Cut-off speed for velocity distribution \n - Scrollable (up-down) position vs velocity chart \n - General improvements \n - Bug fixes \n ",
+      "latest-version": "2.2.8",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.8_Mac.dmg",
+	  "changelog":  "- Dynamic balance charts added \n - Report template enhanced \n - Best fit lines improved \n - General improvements \n - Bug fixes \n ",
       "mandatory": true
     }
   }
