@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.9",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.9_Win.exe",
-      "changelog":  "- More leverages added \n - Best fit lines improved \n - General improvements \n - Bug fixes \n ",
+      "latest-version": "2.2.10",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.10_Win.exe",
+      "changelog":  "- Custom colors added \n - Summary added in comparison \n - Spring calculator added \n - Lap manager: cumulative and absolute times \n - Custom axis scale for accelerometers \n - General improvements \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.9",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.9_Mac.dmg",
-	  "changelog":  "- More leverages added \n - Best fit lines improved \n - General improvements \n - Bug fixes \n ",
+      "latest-version": "2.2.10",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.10_Mac.dmg",
+	  "changelog":  "- Custom colors added \n - Summary added in comparison \n - Spring calculator added \n - Lap manager: cumulative and absolute times \n - Custom axis scale for accelerometers \n - General improvements \n - Bug fixes \n ",
       "mandatory": true
     }
   }
