@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.12",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.12_Win.exe",
-      "changelog":  "- Export summary as CSV \n - Selection preview added \n - Time stamp in CSV added \n - Bug fixes \n ",
+      "latest-version": "2.2.13",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.13_Win.exe",
+      "changelog":  "- Average line for each type of data \n - Clickable maximum \n - Chrono compatibility added \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.12",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.12_Mac.dmg",
-      "changelog":  "- Export summary as CSV \n - Selection preview added \n - Time stamp in CSV added \n - Bug fixes \n ",
+      "latest-version": "2.2.13",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.13_Mac.dmg",
+      "changelog":  "- Average line for each type of data \n - Clickable maximum \n - Chrono compatibility added \n - Bug fixes \n ",
       "mandatory": true
     }
   }
