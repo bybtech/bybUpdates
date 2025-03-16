@@ -1,0 +1,45 @@
+{
+  "updates": {
+    "telemetry": {
+      "TELEMETRY-V3-2CONN": {
+        "latest-version": "3.0",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.14_Win.exe",
+        "changelog":  "- Bug fixes \n ",
+        "mandatory": true
+        },
+      "TELEMETRY-V3-PRO-3CONN": {
+        "latest-version": "3.2",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.14_Win.exe",
+        "changelog":  "- Bug fixes \n ",
+        "mandatory": true
+        },
+      "TELEMETRY-V3-PRO-5CONN": {
+        "latest-version": "3.2",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.14_Win.exe",
+        "changelog":  "- Bug fixes \n ",
+        "mandatory": true
+        },
+      "TELEMETRY-V3-PRO-8CONN": {
+        "latest-version": "3.2",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.14_Win.exe",
+        "changelog":  "- Bug fixes \n ",
+        "mandatory": true
+        }
+      },
+    "chrono": {
+        "CHRONO-0": {
+        "latest-version": "1.9",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-0_1.99.bin",
+        "changelog":  "- Bug fixes \n ",
+        "mandatory": true
+        },
+        "CHRONO-TRIGGER-0": {
+        "latest-version": "1.9",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-trigger-0_1.9.bin",
+        "changelog":  "- Bug fixes \n ",
+        "mandatory": true
+        }
+    }
+  }
+}
+
