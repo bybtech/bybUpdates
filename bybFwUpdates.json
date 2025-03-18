@@ -29,13 +29,13 @@
     "chrono": {
         "CHRONO-0": {
         "latest-version": "1.9",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-0_1.99.bin",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-0_1.3.bin",
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         },
         "CHRONO-TRIGGER-0": {
         "latest-version": "1.9",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-trigger-0_1.9.bin",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-trigger-0_1.2.bin",
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         }
