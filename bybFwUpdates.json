@@ -2,26 +2,26 @@
   "updates": {
     "telemetry": {
       "TELEMETRY-V3-2CONN": {
-        "latest-version": "3.0",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.14_Win.exe",
+        "latest-version": "3.9",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/telemetry-v3-0_3.0.bin",
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         },
       "TELEMETRY-V3-PRO-3CONN": {
-        "latest-version": "3.2",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.14_Win.exe",
+        "latest-version": "3.9",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/telemetry-v3-pro-0_3.2.bin",
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         },
       "TELEMETRY-V3-PRO-5CONN": {
-        "latest-version": "3.2",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.14_Win.exe",
+        "latest-version": "3.9",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/telemetry-v3-pro-0_3.2.bin",
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         },
       "TELEMETRY-V3-PRO-8CONN": {
-        "latest-version": "3.2",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.14_Win.exe",
+        "latest-version": "3.9",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/telemetry-v3-pro-0_3.2.bin",
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         }
