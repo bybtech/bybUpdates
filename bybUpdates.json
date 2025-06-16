@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.15",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.15_Win.exe",
-      "changelog":  "- External accelerometer apply zero added \n - Dynamic balance front/rear difference added \n - Improvemts \n - Bug fixes \n ",
+      "latest-version": "2.2.16",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.16_Win.exe",
+      "changelog":  "- Frequency analysis added \n - Support for V3 and V3 Pro added  \n - Improvemts \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.15",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.15_Mac.dmg",
-      "changelog":  "- External accelerometer apply zero added \n - Dynamic balance front/rear difference added \n - Improvemts \n - Bug fixes \n ",
+      "latest-version": "2.2.16",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.16_Mac.dmg",
+      "changelog":  "- Frequency analysis added \n - Support for V3 and V3 Pro added  \n - Improvemts \n - Bug fixes \n ",
       "mandatory": true
     }
   }
