@@ -2,35 +2,35 @@
   "updates": {
     "telemetry": {
       "TELEMETRY-V3-2CONN": {
-        "latest-version": "3.1",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/Telemetry/TELEMETRY-V3-2CONN-0_3.1.bin", 
+        "latest-version": "3.2",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/Telemetry/TELEMETRY-V3-2CONN-0_3.2.bin", 
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         },
       "TELEMETRY-V3-PRO-3CONN": {
-        "latest-version": "3.4",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/Telemetry/TELEMETRY-V3-PRO-3CONN-0_3.4.bin",
+        "latest-version": "3.6",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/Telemetry/TELEMETRY-V3-PRO-3CONN-0_3.6.bin",
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         },
       "TELEMETRY-V3-PRO-5CONN": {
-        "latest-version": "3.4",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/Telemetry/TELEMETRY-V3-PRO-5CONN-0_3.4.bin",
+        "latest-version": "3.6",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/Telemetry/TELEMETRY-V3-PRO-5CONN-0_3.6.bin",
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         },
       "TELEMETRY-V3-PRO-8CONN": {
-        "latest-version": "3.4",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/Telemetry/TELEMETRY-V3-PRO-8CONN-0_3.4.bin",
+        "latest-version": "3.6",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/Telemetry/TELEMETRY-V3-PRO-8CONN-0_3.6.bin",
         "changelog":  "- Bug fixes \n ",
         "mandatory": true
         }
       },
     "chrono": {
         "CHRONO-0": {
-        "latest-version": "1.5",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-0_1.5.bin",
-        "changelog":  "- Important update: new trigger detection mechanism \n ",
+        "latest-version": "1.6",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-0_1.6.bin",
+        "changelog":  "- Important update: improved trigger detection mechanism \n ",
         "mandatory": true
         },
         "CHRONO-TRIGGER-0": {

@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.18",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.18_Win.exe",
-      "changelog":  "- Live mode added \n - Suspension acceleration charts added \n - Brakeace integration added \n - External accelerometers 100g and 200g avg+, avg- added \n - Autotuning improved \n - Lap manager improved \n - General improvemts \n - Bug fixes \n ",
+      "latest-version": "2.2.19",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.19_Win.exe",
+      "changelog":  "- Custom XY charts added \n - Dashboard added \n - General improvemts \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.18",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.18_Mac.dmg",
-      "changelog":  "- Live mode added \n - Suspension acceleration charts added \n - Brakeace integration added \n - External accelerometers 100g and 200g avg+, avg- added \n - Autotuning improved \n - Lap manager improved \n - General improvemts \n - Bug fixes \n ",
+      "latest-version": "2.2.19",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.19_Mac.dmg",
+      "changelog":  "- Custom XY charts added \n - Dashboard added \n - General improvemts \n - Bug fixes \n ",
       "mandatory": true
     }
   }
