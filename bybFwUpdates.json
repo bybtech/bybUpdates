@@ -28,8 +28,8 @@
       },
     "chrono": {
         "CHRONO-0": {
-        "latest-version": "1.6",
-        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-0_1.6.bin",
+        "latest-version": "1.7",
+        "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/chrono-0_1.7.bin",
         "changelog":  "- Important update: improved trigger detection mechanism \n ",
         "mandatory": true
         },
