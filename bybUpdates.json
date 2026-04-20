@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.19",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.19_Win.exe",
-      "changelog":  "- Custom XY charts added \n - Dashboard added \n - General improvemts \n - Bug fixes \n ",
+      "latest-version": "2.2.20",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.20_Win.exe",
+      "changelog":  "- General improvemts \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.19",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.19_Mac.dmg",
-      "changelog":  "- Custom XY charts added \n - Dashboard added \n - General improvemts \n - Bug fixes \n ",
+      "latest-version": "2.2.20",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.20_Mac.dmg",
+      "changelog":  "- General improvemts \n - Bug fixes \n ",
       "mandatory": true
     }
   }
