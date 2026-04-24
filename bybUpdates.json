@@ -2,15 +2,15 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.20",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.20_Win.exe",
+      "latest-version": "2.2.21",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.21_Win.exe",
       "changelog":  "- General improvemts \n - Bug fixes \n ",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2.2.20",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.20_Mac.dmg",
+      "latest-version": "2.2.21",
+      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.21_Mac.dmg",
       "changelog":  "- General improvemts \n - Bug fixes \n ",
       "mandatory": true
     }
