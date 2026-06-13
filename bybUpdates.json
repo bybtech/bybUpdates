@@ -5,14 +5,14 @@
       "latest-version": "2.2.22",
       "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.22_Win.exe",
       "changelog":  "- General improvemts \n - Bug fixes \n ",
-      "mandatory": true
+      "mandatory": false
     },
     "osx": {
       "open-url": "",
       "latest-version": "2.2.22",
       "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v2.2.22_Mac.dmg",
       "changelog":  "- General improvemts \n - Bug fixes \n ",
-      "mandatory": true
+      "mandatory": false
     }
   }
 }
