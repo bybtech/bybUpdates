@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "3.0.1",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v3.0.1_Win.exe",
-      "changelog":  "- IMU calibration: set your sensor orientation for correctly aligned charts and FFT axes. \n - Lap Manager: new laps library and downloadable online split catalog, with nearest-track ranking and automatic folder sync. \n - New G-G diagram and Travel Budget dashboard card. \n - Ride Harshness colour-by-slot/channel toggle and clearer comparison feedback. \n - Various bug fixes and stability improvements. \n ",
+      "latest-version": "3.1.0",
+      "download-url": "https://www.dropbox.com/scl/fi/79jqfxe34zdf9l7m0i416/BYB-Telemetry-v3.1.0_Win.exe?rlkey=9934uvxsijb53jewnauwdh1pk&st=o3r89s12&dl=1",
+      "changelog":  "- Managed library. \n - User Profiles \n - Garage \n - G-G chart \n - Various bug fixes and stability improvements. \n ",
       "mandatory": false
     },
     "osx": {
       "open-url": "",
-      "latest-version": "3.0.1",
-      "download-url": "https://raw.githubusercontent.com/bybtech/bybUpdates/main/BYB-Telemetry-v3.0.1_Mac.dmg",
-      "changelog":  "- IMU calibration: set your sensor orientation for correctly aligned charts and FFT axes. \n - Lap Manager: new laps library and downloadable online split catalog, with nearest-track ranking and automatic folder sync. \n - New G-G diagram and Travel Budget dashboard card. \n - Ride Harshness colour-by-slot/channel toggle and clearer comparison feedback. \n - Various bug fixes and stability improvements. \n ",
+      "latest-version": "3.1.0",
+      "download-url": "https://www.dropbox.com/scl/fi/d4f7mnmkuacw01pbge2pe/BYB-Telemetry-v3.1.0_Mac.dmg?rlkey=qsh8rd2cq03zprr1spc5au4pt&st=bjrfszp3&dl=1",
+      "changelog":  "- Managed library. \n - User Profiles \n - Garage \n - G-G chart \n - Various bug fixes and stability improvements. \n ",
       "mandatory": false
     }
   }
