@@ -2,15 +2,15 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "3.1.0",
-      "download-url": "https://www.dropbox.com/scl/fi/79jqfxe34zdf9l7m0i416/BYB-Telemetry-v3.1.0_Win.exe?rlkey=9934uvxsijb53jewnauwdh1pk&st=o3r89s12&dl=1",
+      "latest-version": "3.1.1",
+      "download-url": "https://www.dropbox.com/scl/fi/w6darg2r66hiza0nxmcoa/BYB-Telemetry-v3.1.1_Win.exe?rlkey=j6i7k72jyo1nxweuh6e2zw0i4&dl=1",
       "changelog":  "- Managed library. \n - User Profiles \n - Garage \n - G-G chart \n - Various bug fixes and stability improvements. \n ",
       "mandatory": false
     },
     "osx": {
       "open-url": "",
-      "latest-version": "3.1.0",
-      "download-url": "https://www.dropbox.com/scl/fi/d4f7mnmkuacw01pbge2pe/BYB-Telemetry-v3.1.0_Mac.dmg?rlkey=qsh8rd2cq03zprr1spc5au4pt&st=bjrfszp3&dl=1",
+      "latest-version": "3.1.1",
+      "download-url": "https://www.dropbox.com/scl/fi/7s6l878nvod8tev00ji31/BYB-Telemetry-v3.1.1_Mac.dmg?rlkey=1t7w3xpbmdx92m8la3dkc5ktj&dl=1",
       "changelog":  "- Managed library. \n - User Profiles \n - Garage \n - G-G chart \n - Various bug fixes and stability improvements. \n ",
       "mandatory": false
     }
