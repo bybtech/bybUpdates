@@ -2,16 +2,16 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "3.1.1",
-      "download-url": "https://www.dropbox.com/scl/fi/w6darg2r66hiza0nxmcoa/BYB-Telemetry-v3.1.1_Win.exe?rlkey=j6i7k72jyo1nxweuh6e2zw0i4&dl=1",
-      "changelog":  "- User Profiles improved \n - Multi screen \n - Jump detection \n - Various bug fixes and stability improvements. \n ",
+      "latest-version": "3.1.2",
+      "download-url": "https://github.com/bybtech/bybUpdates/releases/download/3.1.2/BYB-Telemetry-v3.1.2_Win.exe",
+      "changelog":  "- BYB Cloud: your profiles, vehicles, setups and runs on every device\n- Share runs, leverage curves and laps with your coach or other riders\n- Ask BYB: ask the AI about your run\n- Customizable setup sheet, leverage catalog, vehicles without suspension\n- New maps: acceleration & braking, lean angle\n- Firmware 4.1 support and faster download\n- Now in Italian, Spanish, German, French and Portuguese\n- Built-in user manual\n- Various bug fixes and stability improvements",
       "mandatory": false
     },
     "osx": {
       "open-url": "",
-      "latest-version": "3.1.1",
-      "download-url": "https://www.dropbox.com/scl/fi/7s6l878nvod8tev00ji31/BYB-Telemetry-v3.1.1_Mac.dmg?rlkey=1t7w3xpbmdx92m8la3dkc5ktj&dl=1",
-      "changelog":  "- User Profiles improved \n - Multi screen \n - Jump detection \n - Various bug fixes and stability improvements. \n ",
+      "latest-version": "3.1.2",
+      "download-url": "https://github.com/bybtech/bybUpdates/releases/download/3.1.2/BYB-Telemetry-v3.1.2_Mac.dmg",
+      "changelog":  "- BYB Cloud: your profiles, vehicles, setups and runs on every device\n- Share runs, leverage curves and laps with your coach or other riders\n- Ask BYB: ask the AI about your run\n- Customizable setup sheet, leverage catalog, vehicles without suspension\n- New maps: acceleration & braking, lean angle\n- Firmware 4.1 support and faster download\n- Now in Italian, Spanish, German, French and Portuguese\n- Built-in user manual\n- Various bug fixes and stability improvements",
       "mandatory": false
     }
   }
