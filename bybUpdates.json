@@ -3,14 +3,14 @@
     "windows": {
       "open-url": "",
       "latest-version": "3.1.2",
-      "download-url": "https://github.com/bybtech/bybUpdates/releases/download/3.1.2/BYB-Telemetry-v3.1.2_Win.exe",
+      "download-url": "https://github.com/bybtech/bybUpdates/releases/download/3.1.3/BYB-Telemetry-v3.1.3_Win.exe",
       "changelog":  "- BYB Cloud: your profiles, vehicles, setups and runs on every device\n- Share runs, leverage curves and laps with your coach or other riders\n- Ask BYB: ask the AI about your run\n- Customizable setup sheet, leverage catalog, vehicles without suspension\n- New maps: acceleration & braking, lean angle\n- Firmware 4.1 support and faster download\n- Now in Italian, Spanish, German, French and Portuguese\n- Built-in user manual\n- Various bug fixes and stability improvements",
       "mandatory": false
     },
     "osx": {
       "open-url": "",
       "latest-version": "3.1.2",
-      "download-url": "https://github.com/bybtech/bybUpdates/releases/download/3.1.2/BYB-Telemetry-v3.1.2_Mac.dmg",
+      "download-url": "https://github.com/bybtech/bybUpdates/releases/download/3.1.3/BYB-Telemetry-v3.1.3_Mac.dmg",
       "changelog":  "- BYB Cloud: your profiles, vehicles, setups and runs on every device\n- Share runs, leverage curves and laps with your coach or other riders\n- Ask BYB: ask the AI about your run\n- Customizable setup sheet, leverage catalog, vehicles without suspension\n- New maps: acceleration & braking, lean angle\n- Firmware 4.1 support and faster download\n- Now in Italian, Spanish, German, French and Portuguese\n- Built-in user manual\n- Various bug fixes and stability improvements",
       "mandatory": false
     }
